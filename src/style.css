@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+
+canvas {
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+/* .canvasInterface {
+    display:grid;
+}
+
+.canvasInterface canvas {
+    grid-column: 1;
+    grid-row: 1;
+} */
